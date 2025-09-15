@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pierrrrrrr.github.io/HOS/sitemap.xml
