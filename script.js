@@ -18,6 +18,7 @@ window.addEventListener('scroll', () => {
   header.classList.toggle('scrolled', window.scrollY > 8);
 });
 
+codex/build-complete-one-page-website-for-hos-eog06y
 // Scroll spy
 const navLinks = document.querySelectorAll('header nav a:not(.btn)[href^="#"]');
 const sections = Array.from(navLinks).map(l => document.querySelector(l.getAttribute('href')));
@@ -37,6 +38,8 @@ const spy = new IntersectionObserver(entries => {
 }, {rootMargin: '0px 0px -60% 0px'});
 sections.forEach(sec => spy.observe(sec));
 
+
+ main
 // Footer dialog modals
 const dialogLinks = document.querySelectorAll('[data-dialog]');
 dialogLinks.forEach(link => {

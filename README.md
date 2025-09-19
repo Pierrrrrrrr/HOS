@@ -14,11 +14,14 @@ Premium PG-13 landing page for the House of Sex brand. Built with vanilla HTML, 
 2. Select **Other** framework (no build).
 3. Deploy.
 
+codex/build-complete-one-page-website-for-hos-eog06y
 ### Netlify
 1. Drag and drop the project folder into Netlify or connect the repo.
 2. No build command needed.
 3. Deploy.
 
+
+main
 ## Waitlist form
 The form uses `mailto:` by default. To switch:
 
